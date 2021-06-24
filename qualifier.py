@@ -65,16 +65,3 @@ def make_table(rows, labels = None, centered = False):
     table += make_table_line_break(rowSpace, 2)
 
     return table
-
-# table = make_table(
-#     rows=[
-#         ["Lemon", 18_3285, "Owner"],
-#         ["Sebastiaan", 18_3285.1, "Owner"],
-#         ["KutieKatj", 15_000, "Admin"],
-#         ["Jake", "MoreThanU", "Helper"],
-#         ["Joe", -12, "Idk Tbh"]
-#     ],
-#     labels=["User", "Messages", "Role"],
-#     centered=True
-# )
-# print(table)

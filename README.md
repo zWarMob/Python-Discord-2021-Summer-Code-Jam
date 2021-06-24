@@ -1,5 +1,5 @@
 Python-Discord-2021-Summer-Code-Jam
-# https://github.com/python-discord/cj8-qualifie
+# https://github.com/python-discord/cj8-qualifier
 
 # 🥥🍸😎 
 .
